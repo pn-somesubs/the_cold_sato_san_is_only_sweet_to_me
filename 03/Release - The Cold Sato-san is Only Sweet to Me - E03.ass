@@ -20,6 +20,7 @@ Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.48,0:00:14.99,Default,KOHARU,0,0,0,,{\fs17\an7\fe162\b1\fad(400,400)\bord2\blur5\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Umav\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
 Dialogue: 9,0:00:04.48,0:00:05.99,Default,KOHARU,0,0,0,,Oshio-kun, Oshio-kun!
 Dialogue: 9,0:00:06.73,0:00:08.90,Default,SOTA,0,0,0,,N-Ne oldu, Sato-san?
 Dialogue: 9,0:00:08.90,0:00:10.24,Default,KOHARU,0,0,0,,Bak! Bak!
