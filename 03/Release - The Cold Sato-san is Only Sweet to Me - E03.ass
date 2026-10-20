@@ -1,0 +1,475 @@
+[Script Info]
+Title: pn-SomeSubs - The Cold Sato-san is Only Sweet to Me
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+YCbCr Matrix: TV.601
+LayoutResX: 640
+LayoutResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Default Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Italics,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Italics Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+Style: Flashback,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+Style: Flashback Top,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,8,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 9,0:00:04.48,0:00:05.99,Default,KOHARU,0,0,0,,Oshio-kun, Oshio-kun!
+Dialogue: 9,0:00:06.73,0:00:08.90,Default,SOTA,0,0,0,,N-Ne oldu, Sato-san?
+Dialogue: 9,0:00:08.90,0:00:10.24,Default,KOHARU,0,0,0,,Bak! Bak!
+Dialogue: 0,0:00:09.98,0:00:10.90,Default,SIGN,0,0,0,,{\an8\fs12\pos(386,1)\c&H838188&\3c&HFCFCFC&}Omi, Ukigumodo
+Dialogue: 9,0:00:10.24,0:00:11.06,Default,KOHARU,0,0,0,,Buraya bir baksana!
+Dialogue: 0,0:00:10.86,0:00:11.74,Default,SIGN,0,0,0,,{\an8\fs12\pos(386,1)\c&H838188&\3c&HFCFCFC&}Omi, Ukigumodo
+Dialogue: 0,0:00:11.69,0:00:12.49,Default,SIGN,0,0,0,,{\an8\fs12\pos(386,1)\c&H838188&\3c&HFCFCFC&}Omi, Ukigumodo
+Dialogue: 9,0:00:11.06,0:00:12.49,Default,KOHARU,0,0,0,,Tam Minstagram'lık bir yer, değil mi?
+Dialogue: 9,0:00:12.86,0:00:15.74,Default,SOTA,0,0,0,,Omi, ha? Trenle gitmesi de kolaymış.
+Dialogue: 9,0:00:16.36,0:00:19.53,Default,SOTA,0,0,0,,Ş-Şey, bu cumartesi gidip \NBakalım mı?
+Dialogue: 9,0:00:19.53,0:00:20.57,Default,KOHARU,0,0,0,,Gerçekten mi?!
+Dialogue: 9,0:00:20.91,0:00:23.33,Default,SOTA,0,0,0,,Geçen gün sana söz vermiştim.
+Dialogue: 0,0:00:23.80,0:00:27.04,Flashback,SOTA,0,0,0,,{\t(3185,3518,\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&)}Seninle gitmek istiyorum, Sato-san.
+Dialogue: 9,0:00:27.04,0:00:29.84,Default,KOHARU,0,0,0,,Yaşasın!
+Dialogue: 9,0:00:29.84,0:00:33.88,Italics,KOHARU,0,0,0,,Bir dakika! Az önce Oshio-kun ile \NGerçekten buluşma planı mı yaptım ben?
+Dialogue: 0,0:00:51.48,0:00:53.49,Default,SIGN,0,0,0,,{\an8\fnTimes New Roman\fs22\c&HC4C826&\bord0\b1\fad(482,140)}Soğuk {\c&H9657E9&}Sato-san {\c&HC4C826&}Sadece {\c&H9657E9&}Bana Karşı {\c&HC4C826&}Tatlı
+Dialogue: 1,0:02:12.19,0:02:15.19,Default,SIGN,0,0,0,,{\fad(527,471)\fnArial\fs16\bord1\shad1\c&HBB91D7&\4c&HFFF5FF&\3c&HFFF5FF&\pos(150,276)}Bölüm 3
+Dialogue: 0,0:02:12.19,0:02:15.19,Default,SIGN,0,0,0,,{\fad(527,471)\p1\bord0\an8\c&HEDA48C&\frz359.9\fscx28\fscy2\pos(149.5,277)}m 0 0 l 230 0 230 215 0 215
+Dialogue: 1,0:02:12.19,0:02:15.19,Default,SIGN,0,0,0,,{\fad(527,471)\fnArial\fs20\bord1\shad1\c&HBB91D7&\4c&HFFF5FF&\3c&HFFF5FF&\pos(151,348)}Karşılıklı Aşklarının Sonu
+Dialogue: 0,0:02:12.19,0:02:15.19,Default,SIGN,0,0,0,,{\fad(527,471)\p1\bord0\an8\c&HEDA48C&\frz359.9\pos(152.5,349)\fscx105\fscy2}m 0 0 l 230 0 230 215 0 215
+Dialogue: 9,0:02:12.38,0:02:14.24,Default Top,REN,0,0,0,,"Bir erkeğin gururu aptalca olabilir.
+Dialogue: 9,0:02:14.24,0:02:16.88,Default Top,REN,0,0,0,,Ama bu ondan kolayca \NVazgeçmesi gerektiği anlamına gelmez.
+Dialogue: 9,0:02:16.88,0:02:19.32,Default,REN,0,0,0,,Bir erkeğin tereddüt etmeden\N onu bir kenara atacağı tek an.
+Dialogue: 9,0:02:19.32,0:02:22.17,Default,REN,0,0,0,,Sevdiği kadının peşinden koştuğu andır."
+Dialogue: 9,0:02:22.17,0:02:25.31,Italics,SOTA,0,0,0,,Gerçekten harika birinin \NSözleri bunlar... yok, hayır.
+Dialogue: 9,0:02:25.31,0:02:28.08,Italics,SOTA,0,0,0,,Bunlar en yakın arkadaşım \NMisono Ren'in sözleri.
+Dialogue: 9,0:02:28.27,0:02:31.28,Italics,SOTA,0,0,0,,Görünüşe göre bunu söyledikten ertesi gün.
+Dialogue: 9,0:02:28.52,0:02:30.18,Flashback Top,REN,0,0,0,,Lütfen bana bir şans daha ver!
+Dialogue: 9,0:02:30.18,0:02:31.79,Flashback Top,REN,0,0,0,,Lütfen bana bir şans daha ver!
+Dialogue: 9,0:02:31.28,0:02:34.26,Italics,SOTA,0,0,0,,Eski sevgilisine ona şans vermesi için yalvarmış.
+Dialogue: 9,0:02:34.26,0:02:35.76,Italics,SOTA,0,0,0,,Ama acımasızca reddedilmiş.
+Dialogue: 9,0:02:36.29,0:02:40.01,Italics,SOTA,0,0,0,,Her neyse, benim için o an, şu an.
+Dialogue: 9,0:02:40.01,0:02:41.09,Default,REN,0,0,0,,Ama dostum.
+Dialogue: 9,0:02:41.09,0:02:43.60,Default,REN,0,0,0,,Gerçekten gözünü yükseklere dikmişsin, değil mi?
+Dialogue: 9,0:02:43.60,0:02:45.59,Default,SOTA,0,0,0,,Yani herkes biliyor mu?
+Dialogue: 9,0:02:45.92,0:02:49.71,Default,SOTA,0,0,0,,Sato-san'dan hoşlandığımı mı?
+Dialogue: 9,0:02:49.71,0:02:50.61,Default,REN,0,0,0,,Hayır.
+Dialogue: 9,0:02:50.88,0:02:54.69,Default,REN,0,0,0,,Sınıftaki herkes sen ve Sato-san'ın \NZaten birlikte olduğunu düşünüyor.
+Dialogue: 9,0:02:55.71,0:02:57.24,Default,SOTA,0,0,0,,Öyle söyleme.
+Dialogue: 9,0:02:57.24,0:02:59.66,Default,SOTA,0,0,0,,İlgilenmediği biriyle \Nsevgili olduğu düşünülürse.
+Dialogue: 9,0:02:59.66,0:03:01.76,Default,SOTA,0,0,0,,Sato-san zor durumda kalır.
+Dialogue: 9,0:03:01.76,0:03:02.87,Default,REN,0,0,0,,Ha?
+Dialogue: 9,0:03:02.87,0:03:04.59,Default,REN,0,0,0,,Sen ciddi misin şu an?
+Dialogue: 9,0:03:04.92,0:03:05.99,Default,SOTA,0,0,0,,Ne demek istiyorsun?
+Dialogue: 9,0:03:06.27,0:03:08.37,Default,REN,0,0,0,,Aman, boş ver.
+Dialogue: 9,0:03:09.56,0:03:10.88,Default,REN,0,0,0,,Geldik.
+Dialogue: 9,0:03:11.20,0:03:13.58,Default,REN,0,0,0,,Önerdiğim yer burası.
+Dialogue: 9,0:03:15.38,0:03:17.76,Default,SOTA,0,0,0,,Vay canına.
+Dialogue: 9,0:03:17.76,0:03:19.67,Default,SOTA,0,0,0,,Müthiş.
+Dialogue: 9,0:03:21.52,0:03:22.76,Default,SOTA,0,0,0,,Güzelmiş.
+Dialogue: 9,0:03:22.76,0:03:24.81,Default,SHIZUKU,0,0,0,,Tirol ayakkabılar, ha?
+Dialogue: 9,0:03:24.81,0:03:26.52,Default,SHIZUKU,0,0,0,,Senin için biraz fazla yetişkin işi olabilir.
+Dialogue: 9,0:03:26.52,0:03:27.44,Default,SOTA,0,0,0,,Ha?
+Dialogue: 9,0:03:28.48,0:03:30.52,Default,SHIZUKU,0,0,0,,Hoş geldiniz!
+Dialogue: 9,0:03:30.52,0:03:32.68,Default,REN,0,0,0,,Sana müşteri getirdim, Abla.
+Dialogue: 9,0:03:32.68,0:03:34.77,Default,SOTA,0,0,0,,Ne? A-Abla mı?
+Dialogue: 9,0:03:34.77,0:03:35.56,Default,SHIZUKU,0,0,0,,Aynen öyle!
+Dialogue: 9,0:03:35.56,0:03:37.86,Default,SHIZUKU,0,0,0,,Ren bana her şeyi anlattı.
+Dialogue: 9,0:03:37.86,0:03:44.28,Default,SHIZUKU,0,0,0,,Bugün ben, Shizuku Misono, seni\NEtraftaki en çekici erkeğe dönüştüreceğim!
+Dialogue: 9,0:03:44.28,0:03:45.55,Default,SHIZUKU,0,0,0,,Yippee!
+Dialogue: 9,0:03:45.90,0:03:48.53,Default,SOTA,0,0,0,,Y-Yippee!.
+Dialogue: 9,0:03:48.93,0:03:53.21,Default,KIYOMI,0,0,0,,"Bir kadının gururu değerlidir. \NÖyle kolayca kenara atılacak bir şey değildir.
+Dialogue: 9,0:03:53.21,0:03:55.38,Default,KIYOMI,0,0,0,,Ne olursa olsun asla ondan vazgeçme.
+Dialogue: 9,0:03:55.38,0:03:57.56,Default,KIYOMI,0,0,0,,Onu el üstünde tut ve koru."
+Dialogue: 9,0:03:57.56,0:04:00.81,Italics,KOHARU,0,0,0,,Gerçekten harika birinin \NSözleri bunlar... yok, hayır.
+Dialogue: 9,0:04:00.81,0:04:03.80,Italics,KOHARU,0,0,0,,Bunlar annem \NSato kiyomi'nin sözleri.
+Dialogue: 9,0:04:03.80,0:04:07.05,Italics,KOHARU,0,0,0,,"Aslında gayet de kibirlisin Anne." \NDiye ağzımdan kaçırınca.
+Dialogue: 9,0:04:07.05,0:04:10.20,Italics,KOHARU,0,0,0,,Kafama sert bir tokat attı.
+Dialogue: 0,0:04:10.22,0:04:11.18,Default,SIGN,0,0,0,,{\an8\b1\c&H3F4040&\3c&HF4F4F4&}Şiddete karşıyım!
+Dialogue: 9,0:04:10.20,0:04:11.39,Default,KOHARU,0,0,0,,Şiddete karşıyım!
+Dialogue: 9,0:04:11.39,0:04:15.16,Italics,KOHARU,0,0,0,,Bu yüzden benden iki yaş küçük kuzenim \NRinka-chan'dan.
+Dialogue: 9,0:04:15.16,0:04:17.86,Italics,KOHARU,0,0,0,,Buluşmam için bir kıyafet seçmeme \NYardım etmesini istedim ama.
+Dialogue: 9,0:04:17.86,0:04:20.08,Default,RINKA,0,0,0,,Fotoğrafını göster bana.
+Dialogue: 9,0:04:21.80,0:04:24.32,Default,RINKA,0,0,0,,Öyleyse kendine güvenmiyorsun.
+Dialogue: 9,0:04:24.52,0:04:26.82,Default,KOHARU,0,0,0,,Oshio-kun çok yakışıklı bir kere!
+Dialogue: 9,0:04:27.10,0:04:29.84,Default,RINKA,0,0,0,,Demek adı Oshio-kun?
+Dialogue: 9,0:04:31.96,0:04:34.37,Default,RINKA,0,0,0,,Demek tarzın bu.
+Dialogue: 9,0:04:34.37,0:04:36.20,Default,RINKA,0,0,0,,Neden hoşlandığını anlayabiliyorum.
+Dialogue: 9,0:04:36.45,0:04:38.36,Default,RINKA,0,0,0,,Aslında oldukça çekiciymiş.
+Dialogue: 9,0:04:38.36,0:04:40.04,Default,RINKA,0,0,0,,Benim tarzım değil ama.
+Dialogue: 9,0:04:40.04,0:04:40.71,Default,RINKA,0,0,0,,Al bakalım.
+Dialogue: 9,0:04:42.64,0:04:45.52,Default,RINKA,0,0,0,,Az önce ona yakışıklı demem \NHoşuna gitti, değil mi?
+Dialogue: 9,0:04:46.24,0:04:48.60,Default,RINKA,0,0,0,,Umarım dış görünüşünden \NDaha fazlasıyla ilgileniyordur.
+Dialogue: 9,0:04:48.60,0:04:51.10,Default,KOHARU,0,0,0,,Oshio-kun öyle bir insan değil.
+Dialogue: 9,0:04:51.10,0:04:52.56,Default,RINKA,0,0,0,,Aman, her neyse.
+Dialogue: 9,0:04:54.02,0:04:55.46,Default,RINKA,0,0,0,,Mayo-san!
+Dialogue: 9,0:04:56.28,0:04:59.18,Default,MAYO,0,0,0,,Ah, Rinka-chan. Hoş geldin!
+Dialogue: 9,0:04:59.18,0:05:00.63,Default,MAYO,0,0,0,,Bu kim bakalım?
+Dialogue: 9,0:05:00.63,0:05:02.38,Default,RINKA,0,0,0,,Kuzenim, Sato Koharu.
+Dialogue: 9,0:05:02.38,0:05:05.62,Default,RINKA,0,0,0,,Onun için harika bir kombin \NSeçmesine yardım edebilir misin?
+Dialogue: 9,0:05:05.62,0:05:07.68,Default,RINKA,0,0,0,,Batırmaması gereken bir buluşması var!
+Dialogue: 9,0:05:07.68,0:05:09.61,Default,KOHARU,0,0,0,,Aynen öyle!
+Dialogue: 9,0:05:09.84,0:05:13.01,Default,MAYO,0,0,0,,Bu büyük bir sorumluluk.
+Dialogue: 9,0:05:15.41,0:05:17.92,Default,MAYO,0,0,0,,Ben Hidamari'den Nezu Mayo.
+Dialogue: 9,0:05:17.92,0:05:20.38,Default,MAYO,0,0,0,,Sana harika bir kombin hazırlamak için elimden\N geleni yapacağım, o yüzden bana bırak!
+Dialogue: 9,0:05:20.38,0:05:21.88,Default,MAYO,0,0,0,,Yippee!
+Dialogue: 9,0:05:21.88,0:05:24.34,Default,KOHARU,0,0,0,,Y-Yippee...
+Dialogue: 9,0:05:25.33,0:05:26.40,Default,SHIZUKU,0,0,0,,Nasıl olmuş?
+Dialogue: 9,0:05:26.40,0:05:27.77,Default,REN,0,0,0,,Berbat.
+Dialogue: 9,0:05:28.57,0:05:29.89,Default,REN,0,0,0,,Peki buna ne diyorsun?
+Dialogue: 9,0:05:29.89,0:05:31.32,Default,SHIZUKU,0,0,0,,Çok abartı!
+Dialogue: 9,0:05:32.35,0:05:33.31,Default,SHIZUKU,0,0,0,,Buna ne dersin?
+Dialogue: 9,0:05:33.31,0:05:34.53,Default,REN,0,0,0,,Reddedildi!
+Dialogue: 9,0:05:35.06,0:05:35.92,Default,REN,0,0,0,,Peki ya {\i1}şu{\i0}?!
+Dialogue: 9,0:05:35.92,0:05:37.47,Default,SHIZUKU,0,0,0,,Reddedildi!
+Dialogue: 9,0:05:38.23,0:05:39.26,Default,SHIZUKU,0,0,0,,Bu nasıl?
+Dialogue: 9,0:05:39.26,0:05:40.66,Default,REN,0,0,0,,Reddedildi!
+Dialogue: 9,0:05:40.66,0:05:42.86,Default,SOTA,0,0,0,,Ben sizin oyuncak bebeğiniz miyim?
+Dialogue: 9,0:05:42.86,0:05:45.61,Default,REN/SHIZUKU,0,0,0,,O zaman nasıl bir tarz istiyorsun?
+Dialogue: 9,0:05:46.02,0:05:49.56,Default,SOTA,0,0,0,,Onu gerçekten etkilemek istiyorum.
+Dialogue: 9,0:05:49.95,0:05:51.43,Default,SOTA,0,0,0,,En azından hoşlandığım kızın.
+Dialogue: 9,0:05:51.43,0:05:55.35,Default,SOTA,0,0,0,,Yanımda görünmekten \Nutanmayacağı kadar.
+Dialogue: 9,0:05:58.22,0:06:00.53,Default,REN,0,0,0,,Abla, o bej gömlek \Nhâlâ duruyor mu?
+Dialogue: 9,0:06:00.53,0:06:04.12,Default,SHIZUKU,0,0,0,,Duruyor. Beyaz askılı da var.
+Dialogue: 9,0:06:04.12,0:06:05.50,Default,SHIZUKU,0,0,0,,Kot pantolonla kombinlesek nasıl olur?
+Dialogue: 9,0:06:05.50,0:06:07.39,Default,REN,0,0,0,,Kulağa hoş geliyor. Öyle yapalım.
+Dialogue: 9,0:06:08.14,0:06:10.95,Default,SOTA,0,0,0,,Demek beni gerçekten \NOyuncak bebek gibi kullanıyorlarmış.
+Dialogue: 9,0:06:14.84,0:06:16.39,Default,SOTA,0,0,0,,Bunu alıyorum!
+Dialogue: 9,0:06:16.80,0:06:17.55,Default,SHIZUKU,0,0,0,,Tamamdır.
+Dialogue: 9,0:06:17.55,0:06:18.89,Default,REN,0,0,0,,Sıkıcı.
+Dialogue: 9,0:06:19.43,0:06:21.59,Default,MAYO,0,0,0,,Biraz şıklık katmak için \Nşu an trend olan toprak tonlarını ekledim.
+Dialogue: 9,0:06:21.59,0:06:23.13,Default,MAYO,0,0,0,,Keten bluz da ferah bir hava katıyor.
+Dialogue: 9,0:06:23.64,0:06:26.37,Default,MAYO,0,0,0,,Üst ve alt için farklı kesimleri bir araya getirdim.
+Dialogue: 9,0:06:26.37,0:06:28.98,Default,MAYO,0,0,0,,Nasıl buldun?
+Dialogue: 9,0:06:28.98,0:06:29.66,Default,MAYO,0,0,0,,Nasıl buldun?
+Dialogue: 9,0:06:29.94,0:06:31.10,Default,KOHARU,0,0,0,,Bunu alıyorum!
+Dialogue: 9,0:06:31.10,0:06:33.67,Default,KOHARU,0,0,0,,Eve direkt bununla gideceğim!
+Dialogue: 9,0:06:39.75,0:06:41.82,Default,SOTA,0,0,0,,Bugünkü yardımınız için çok teşekkür ederim.
+Dialogue: 9,0:06:41.82,0:06:43.36,Default,SOTA,0,0,0,,İndirim bile yaptınız.
+Dialogue: 9,0:06:43.36,0:06:44.72,Default,SHIZUKU,0,0,0,,Bizi tercih ettiğin için teşekkürler!
+Dialogue: 9,0:06:44.72,0:06:47.72,Default,SHIZUKU,0,0,0,,Buluşmada onu etkilediğinden \NEmin ol, tamam mı?
+Dialogue: 9,0:06:48.77,0:06:49.88,Default,REN,0,0,0,,Pekala, sonra görüşürüz Sota.
+Dialogue: 9,0:06:49.88,0:06:51.88,Default,SOTA,0,0,0,,Ne? Eve gitmiyor musun?
+Dialogue: 9,0:06:52.24,0:06:57.48,Default,REN,0,0,0,,Burası aslında babamın dükkânı, \NHepimiz üst katta oturuyoruz.
+Dialogue: 9,0:06:57.48,0:07:01.15,Default,REN,0,0,0,,Abla! Bugün oyun oynayacağım \Nsakın beni çağırma, tamam mı?
+Dialogue: 9,0:07:01.28,0:07:02.33,Default,SHIZUKU,0,0,0,,Aman, çok da umurumdaydı.
+Dialogue: 9,0:07:02.33,0:07:05.40,Default,SHIZUKU,0,0,0,,Senin gibi huysuz birinin yardımına ihtiyacım yok!
+Dialogue: 9,0:07:09.31,0:07:11.40,Default,KOHARU,0,0,0,,Bugün için çok teşekkür ederim.
+Dialogue: 9,0:07:11.68,0:07:13.41,Default,MAYO,0,0,0,,Umarım her şey güzel geçer.
+Dialogue: 9,0:07:13.41,0:07:15.92,Default,RINKA,0,0,0,,Ben kalıp Mayo-san ile \Nbiraz sohbet edeceğim.
+Dialogue: 9,0:07:15.92,0:07:18.52,Default,KOHARU,0,0,0,,Tamamdır. Bir dahakine kıyağımı yaparım!
+Dialogue: 9,0:07:18.52,0:07:19.16,Default,KOHARU,0,0,0,,Görüşürüz!
+Dialogue: 9,0:07:24.53,0:07:26.16,Default,SOTA,0,0,0,,Sato-san?
+Dialogue: 9,0:07:26.16,0:07:28.00,Default,KOHARU,0,0,0,,O-Oshio-kun.
+Dialogue: 9,0:07:28.00,0:07:30.30,Italics,KOHARU,0,0,0,,Okul üniforması olmadan Oshio-kun!
+Dialogue: 9,0:07:30.30,0:07:33.05,Italics,SOTA,0,0,0,,Vay canına, üniforması yok...
+Dialogue: 9,0:07:33.56,0:07:35.00,Default,SOTA,0,0,0,,Çok sevimli.
+Dialogue: 9,0:07:33.56,0:07:35.00,Default Top,KOHARU,0,0,0,,Çok yakışıklı.
+Dialogue: 9,0:07:35.86,0:07:37.59,Italics,SOTA,0,0,0,,Az önce ben—
+Dialogue: 9,0:07:37.59,0:07:39.62,Italics,KOHARU,0,0,0,,Bunu gerçekten yüksek sesle mi söyledim?
+Dialogue: 9,0:07:39.62,0:07:41.88,Italics,KOHARU,0,0,0,,Bekle Oshio-kun bir şey mi dedi?
+Dialogue: 9,0:07:43.16,0:07:44.64,Default,KOHARU,0,0,0,,N-Ne büyük tesadüf.
+Dialogue: 9,0:07:44.64,0:07:47.02,Default,KOHARU,0,0,0,,S-Senin ne işin var burada?
+Dialogue: 9,0:07:47.02,0:07:48.96,Default,SOTA,0,0,0,,Biraz kıyafet almak istiyordum.
+Dialogue: 9,0:07:48.96,0:07:50.95,Default,SOTA,0,0,0,,O yüzden bu ikinci el \Nmağazasına bakayım dedim.
+Dialogue: 9,0:07:51.65,0:07:53.95,Default,KOHARU,0,0,0,,A-Anladım.
+Dialogue: 9,0:07:56.68,0:07:58.84,Italics,SOTA,0,0,0,,Sato-san çok sevimli görünüyor.
+Dialogue: 9,0:07:58.84,0:08:00.95,Italics,SOTA,0,0,0,,Daha olgun bir tarz ona çok yakışmış.
+Dialogue: 9,0:08:01.46,0:08:04.72,Italics,SOTA,0,0,0,,Onun yanında komik kalırım.
+Dialogue: 9,0:08:05.02,0:08:06.01,Italics,SOTA,0,0,0,,Yine de.
+Dialogue: 9,0:08:06.72,0:08:08.22,Italics,SOTA,0,0,0,,Ona söylemem lazım.
+Dialogue: 9,0:08:09.09,0:08:10.20,Default,SOTA,0,0,0,,Sato-san.
+Dialogue: 9,0:08:11.08,0:08:13.84,Default,KOHARU,0,0,0,,N-N-N-Ne oldu, Oshio-kun?
+Dialogue: 9,0:08:13.84,0:08:17.15,Default,SOTA,0,0,0,,Bu kıyafet sana gerçekten çok yakışmış.
+Dialogue: 9,0:08:17.15,0:08:18.60,Default,SOTA,0,0,0,,Gerçekten çok tatlı görünüyorsun.
+Dialogue: 9,0:08:19.55,0:08:20.33,Default,KOHARU,0,0,0,,Şey—
+Dialogue: 9,0:08:20.33,0:08:21.60,Default,SOTA,0,0,0,,Ne—? Ha?!
+Dialogue: 9,0:08:21.60,0:08:22.62,Default,SOTA,0,0,0,,Sato-san!
+Dialogue: 9,0:08:27.14,0:08:29.40,Default,KOHARU,0,0,0,,Çok sevindim!
+Dialogue: 9,0:08:27.52,0:08:29.40,Default Top,SOTA,0,0,0,,Ha? Sato-san?
+Dialogue: 9,0:08:29.40,0:08:33.28,Default,KOHARU,0,0,0,,Yeni tarzımı tuhaf bulacaksın \Ndiye çok korkmuştum.
+Dialogue: 9,0:08:33.28,0:08:35.18,Default,KOHARU,0,0,0,,Sen de harika görünüyorsun, Oshio-kun.
+Dialogue: 9,0:08:35.18,0:08:37.30,Default,KOHARU,0,0,0,,Çok yakışıklı olmuşsun.
+Dialogue: 9,0:08:37.30,0:08:38.61,Default,SOTA,0,0,0,,Teşekkürler.
+Dialogue: 9,0:08:39.88,0:08:41.12,Default,SOTA,0,0,0,,Ben de sevindim.
+Dialogue: 9,0:08:41.56,0:08:43.63,Default,RINKA,0,0,0,,Bu Koharu'nun?
+Dialogue: 9,0:08:43.96,0:08:46.62,Default,RINKA,0,0,0,,Hem, bu kız ne yapıyor böyle?
+Dialogue: 9,0:08:49.08,0:08:50.88,Default,RINKA,0,0,0,,Mayo-san'ın şapkası!
+Dialogue: 9,0:08:52.86,0:08:54.04,Default,KOHARU,0,0,0,,R-Rinka-chan!
+Dialogue: 9,0:08:56.23,0:08:57.09,Default,RINKA,0,0,0,,Hayır!
+Dialogue: 9,0:09:05.28,0:09:06.44,Default,SOTA,0,0,0,,İyi misin?
+Dialogue: 9,0:09:07.43,0:09:10.44,Default,RINKA,0,0,0,,İ-İyiyim.
+Dialogue: 9,0:09:10.96,0:09:13.04,Default,SOTA,0,0,0,,Çok şükür. Ayağa kalkabiliyor musun?
+Dialogue: 9,0:09:18.13,0:09:21.23,Default,RINKA,0,0,0,,Ş-Şey kolun...
+Dialogue: 9,0:09:21.23,0:09:22.36,Default Top,SOTA,0,0,0,,Vay canına!
+Dialogue: 9,0:09:21.65,0:09:23.25,Default,KOHARU,0,0,0,,Rinka-chan!
+Dialogue: 9,0:09:23.44,0:09:26.80,Default,KOHARU,0,0,0,,Özür dilerim. O kadar \Nkorktum ki kıpırdayamadım bile!
+Dialogue: 9,0:09:26.80,0:09:29.10,Default,KOHARU,0,0,0,,İyi olmana çok sevindim!
+Dialogue: 9,0:09:29.10,0:09:31.48,Default,RINKA,0,0,0,,A-Ama Koharu, o—
+Dialogue: 9,0:09:31.48,0:09:35.26,Default,SOTA,0,0,0,,Gerçekten iyi olmana sevindim.
+Dialogue: 9,0:09:36.24,0:09:38.52,Default,MAYO,0,0,0,,Herkes iyi mi?
+Dialogue: 9,0:09:39.90,0:09:41.41,Default,RINKA,0,0,0,,Mayo-san.
+Dialogue: 9,0:09:41.41,0:09:42.33,Default,RINKA,0,0,0,,Buyurun şapkanız.
+Dialogue: 9,0:09:42.33,0:09:44.68,Default,MAYO,0,0,0,,Teşekkürler. Bir yerin yaralandı mı?
+Dialogue: 9,0:09:44.68,0:09:45.71,Default,RINKA,0,0,0,,Hayır.
+Dialogue: 9,0:09:46.72,0:09:48.30,Default,MAYO,0,0,0,,Aaa.
+Dialogue: 9,0:09:48.30,0:09:50.03,Default,MAYO,0,0,0,,İsterseniz.
+Dialogue: 9,0:09:50.03,0:09:53.78,Default,MAYO,0,0,0,,Üstünüzü başınızı temizlemek için \Nbenim dükkâna gelebilirsiniz.
+Dialogue: 9,0:09:54.28,0:09:55.99,Default,SOTA,0,0,0,,Evet, teşekkürler.
+Dialogue: 9,0:09:55.99,0:09:58.88,Default,MAYO,0,0,0,,Koharu-chan, sen de \NYüzünü silsen iyi olur.
+Dialogue: 9,0:10:04.30,0:10:08.78,Default,RINKA,0,0,0,,Ç-Çok özür dilerim. Öyle birden \NYola atlamamalıydım.
+Dialogue: 9,0:10:08.78,0:10:10.59,Default,SOTA,0,0,0,,Sen Rinka-chan'dın, değil mi?
+Dialogue: 9,0:10:10.90,0:10:13.91,Default,SOTA,0,0,0,,Sakatlığımı gizli tuttuğun için teşekkür ederim.
+Dialogue: 9,0:10:14.27,0:10:17.59,Default,SOTA,0,0,0,,Sato-san'ın endişelenmesini istemedim.
+Dialogue: 9,0:10:18.04,0:10:19.59,Default,RINKA,0,0,0,,Ama, ama...
+Dialogue: 9,0:10:20.00,0:10:22.60,Default,SOTA,0,0,0,,İyi olmana sevindim.
+Dialogue: 9,0:10:25.58,0:10:26.36,Italics,RINKA,0,0,0,,Hayır.
+Dialogue: 9,0:10:27.35,0:10:28.47,Italics,RINKA,0,0,0,,Hayır, hayır, hayır!
+Dialogue: 9,0:10:28.47,0:10:30.60,Italics,RINKA,0,0,0,,İmkanı yok!
+Dialogue: 9,0:10:30.60,0:10:32.02,Italics,RINKA,0,0,0,,Bu olamaz!
+Dialogue: 9,0:10:32.64,0:10:37.30,Italics,RINKA,0,0,0,,Ben... Koharu'nun ilk aşkına mı \NAşık oluyorum yoksa?
+Dialogue: 9,0:10:40.45,0:10:42.25,Default,KOHARU,0,0,0,,Burada bekleyemez miyim?
+Dialogue: 9,0:10:43.12,0:10:47.00,Default,MAYO,0,0,0,,Yırtılan gömleğini dikmek \NBiraz zaman alacak.
+Dialogue: 9,0:10:47.00,0:10:48.12,Default,KOHARU,0,0,0,,Ama.
+Dialogue: 9,0:10:48.36,0:10:50.84,Default,MAYO,0,0,0,,Onu atletle görmek \Nbu kadar çok istiyorsan.
+Dialogue: 9,0:10:50.84,0:10:53.00,Default,MAYO,0,0,0,,Benimle arkaya gelmek ister misin?
+Dialogue: 9,0:10:53.40,0:10:54.57,Default,KOHARU,0,0,0,,Atlet—
+Dialogue: 9,0:10:54.57,0:10:56.12,Default,KOHARU,0,0,0,,B-Ben çıkayım en iyisi!
+Dialogue: 9,0:10:56.12,0:10:57.47,Default,KOHARU,0,0,0,,Hadi gidelim, Rinka-chan.
+Dialogue: 9,0:11:02.73,0:11:03.88,Default,MAYO,0,0,0,,Gitti.
+Dialogue: 9,0:11:04.69,0:11:06.22,Default,SOTA,0,0,0,,Çok teşekkür ederim.
+Dialogue: 9,0:11:06.22,0:11:07.84,Default,MAYO,0,0,0,,Lafı bile olmaz.
+Dialogue: 9,0:11:07.84,0:11:10.44,Default,MAYO,0,0,0,,Asıl ben teşekkür ederim.
+Dialogue: 9,0:11:10.44,0:11:12.71,Default,MAYO,0,0,0,,Senin sayende Rinka-chan iyi.
+Dialogue: 9,0:11:13.27,0:11:16.05,Default,MAYO,0,0,0,,Ee, Oshio-kun. Koharu-chan'dan hoşlanıyor musun?
+Dialogue: 9,0:11:16.05,0:11:17.84,Default,SOTA,0,0,0,,Ne?! Nereden bildi—
+Dialogue: 9,0:11:19.13,0:11:21.01,Default,MAYO,0,0,0,,Çok belli oluyor.
+Dialogue: 9,0:11:21.01,0:11:23.74,Default,MAYO,0,0,0,,Bir tek Koharu-chan farkında değil.
+Dialogue: 9,0:11:23.74,0:11:26.06,Default,SOTA,0,0,0,,G-Gerçekten mi?
+Dialogue: 9,0:11:27.57,0:11:29.75,Default,SOTA,0,0,0,,Bu kötü oldu.
+Dialogue: 9,0:11:30.43,0:11:31.75,Default,MAYO,0,0,0,,Kötü mü?
+Dialogue: 9,0:11:31.75,0:11:35.48,Default,SOTA,0,0,0,,Çünkü bu, beni hiç \NO gözle görmediği anlamına geliyor, değil mi?
+Dialogue: 9,0:11:35.48,0:11:40.03,Default,SOTA,0,0,0,,Herkesin hemen anlayacağı şeyleri \NBile fark etmiyor.
+Dialogue: 9,0:11:43.63,0:11:45.39,Default,MAYO,0,0,0,,İşte hazır.
+Dialogue: 9,0:11:45.39,0:11:47.30,Default,SOTA,0,0,0,,Çok teşekkür ederim.
+Dialogue: 9,0:11:48.64,0:11:50.33,Default,SHIZUKU,0,0,0,,Yaşasın! Mayo!
+Dialogue: 9,0:11:50.33,0:11:52.13,Default,SHIZUKU,0,0,0,,Bu gece kırmızı şarap partisi yapıyoruz!
+Dialogue: 9,0:11:52.13,0:11:53.73,Default,SOTA,0,0,0,,Ha? Shizuku-san?
+Dialogue: 9,0:11:53.73,0:11:57.33,Default,SHIZUKU,0,0,0,,Sota-kun, senin ne işin var burada?
+Dialogue: 9,0:11:57.33,0:12:00.17,Default,MAYO,0,0,0,,Tanıştığınızı tahmin etmeliydim.
+Dialogue: 9,0:12:00.16,0:12:01.15,Default,SOTA,0,0,0,,Ama neden?
+Dialogue: 9,0:12:01.15,0:12:05.89,Default,MAYO,0,0,0,,Şey, üzerindeki kıyafeti \NMOON'dan aldın, değil mi?
+Dialogue: 9,0:12:05.89,0:12:09.41,Default,SHIZUKU,0,0,0,,Evet. Sota-kun, Ren'in kankası.
+Dialogue: 9,0:12:09.41,0:12:13.05,Default,SHIZUKU,0,0,0,,Mayo ve ben ilkokuldan beri \Nçocukluk arkadaşıyız.
+Dialogue: 9,0:12:13.05,0:12:15.16,Default,MAYO,0,0,0,,Üniversitede de aynı kulüpteydik.
+Dialogue: 9,0:12:15.16,0:12:16.68,Default,SHIZUKU/MAYO,0,0,0,,Yippee!
+Dialogue: 9,0:12:16.68,0:12:18.26,Default,SOTA,0,0,0,,Y-Yippee.
+Dialogue: 9,0:12:18.26,0:12:21.53,Default,SHIZUKU,0,0,0,,Sota-kun, iki güzelle \NBirlikte içmek üzeresin!
+Dialogue: 9,0:12:21.53,0:12:22.67,Default,SHIZUKU,0,0,0,,Sevinsene!
+Dialogue: 9,0:12:22.67,0:12:24.34,Default,SOTA,0,0,0,,Ne? Ben daha reşit değilim.
+Dialogue: 9,0:12:24.34,0:12:27.43,Default,SHIZUKU,0,0,0,,Kendine bir kola falan \NDoldur işte, tamam mı?!
+Dialogue: 9,0:12:27.43,0:12:29.96,Default,SHIZUKU,0,0,0,,Hadi bakalım! Ayın ötesindeki \NO yere gidiyoruz!
+Dialogue: 9,0:12:29.96,0:12:31.68,Default,SHIZUKU,0,0,0,,Hadi gidelim, Sota-kun!
+Dialogue: 9,0:12:32.98,0:12:36.32,Default,MAYO,0,0,0,,Ben dükkânı kapatıp geliyorum, siz önden gidin!
+Dialogue: 9,0:12:37.17,0:12:39.27,Default,MAYO,0,0,0,,Sen de bize katılmak ister misin, Rinka-chan?
+Dialogue: 9,0:12:43.00,0:12:45.15,Default,RINKA,0,0,0,,B-Ben gelmeyeyim.
+Dialogue: 9,0:12:45.15,0:12:48.87,Default,RINKA,0,0,0,,Sadece teşekkür etmek için \NGeri dönmüştüm.
+Dialogue: 9,0:12:48.87,0:12:50.75,Default,RINKA,0,0,0,,Ama artık gideyim ben.
+Dialogue: 9,0:12:51.14,0:12:53.76,Default,MAYO,0,0,0,,Yazık oldu. Oshio-kun da buradaydı.
+Dialogue: 9,0:12:53.76,0:12:56.45,Default,RINKA,0,0,0,,B-Bunun benimle bir ilgisi yok.
+Dialogue: 9,0:12:56.45,0:12:58.08,Default,MAYO,0,0,0,,Öyle mi?
+Dialogue: 9,0:12:58.08,0:12:59.96,Default,MAYO,0,0,0,,En azından MINE ID'lerinizi takas edersiniz?
+Dialogue: 9,0:12:59.96,0:13:01.96,Default,RINKA,0,0,0,,A-Ama neden?
+Dialogue: 9,0:13:01.96,0:13:04.96,Default,MAYO,0,0,0,,Onu merak ediyorsun, değil mi?
+Dialogue: 9,0:13:04.96,0:13:06.10,Default,RINKA,0,0,0,,B-Ben.
+Dialogue: 9,0:13:06.10,0:13:09.85,Default,RINKA,0,0,0,,Oshio-san'a asla \NAşık olmayacağım, asla!
+Dialogue: 9,0:13:10.24,0:13:13.81,Default,MAYO,0,0,0,,Rinka-chan, ondan hoşlanıyor musun yoksa?
+Dialogue: 9,0:13:17.62,0:13:19.42,Default,RINKA,0,0,0,,Sonra görüşürüz!
+Dialogue: 9,0:13:22.84,0:13:24.08,Default,KOHARU,0,0,0,,Ben geldim.
+Dialogue: 9,0:13:26.16,0:13:29.59,Default,KIYOMI,0,0,0,,Zamanlaman  gerçekten \NEn kötüsü, değil mi?
+Dialogue: 9,0:13:33.18,0:13:36.37,Default,KAZUHARU,0,0,0,,Geldin mi Koharu? Bayağı geç oldu.
+Dialogue: 9,0:13:36.37,0:13:38.04,Default,KOHARU,0,0,0,,B-Baba.
+Dialogue: 9,0:13:38.04,0:13:41.75,Default,KOHARU,0,0,0,,Erken gelmişsin. \NMesaiye kalman gerekmiyor muydu?
+Dialogue: 9,0:13:42.62,0:13:46.51,Default,KAZUHARU,0,0,0,,Ben sana neden eve geç geldiğini soruyorum.
+Dialogue: 9,0:13:46.51,0:13:51.15,Default,KOHARU,0,0,0,,Ş-Şey, okul çıkışı Rinka-chan ile \NKıyafet almaya gitmiştik de.
+Dialogue: 9,0:13:51.15,0:13:52.51,Default,KOHARU,0,0,0,,O yüzden.
+Dialogue: 9,0:13:52.51,0:13:57.52,Default,KAZUHARU,0,0,0,,Yani senden küçük kuzenini \Nbu saate kadar dışarıda mı tuttun?
+Dialogue: 9,0:13:58.38,0:13:59.72,Default,KAZUHARU,0,0,0,,Otur şöyle.
+Dialogue: 9,0:13:59.72,0:14:01.43,Default,KOHARU,0,0,0,,Tamam.
+Dialogue: 9,0:13:59.72,0:14:01.62,Italics Top,MALE NEWSCASTER,0,0,0,,Sıradaki haberimize geçiyoruz.
+Dialogue: 9,0:14:01.62,0:14:07.31,Italics Top,MALE NEWSCASTER,0,0,0,,Minstagram'da viral olan bir gönderi \Nşimdi büyük bir tartışma başlatıyor.
+Dialogue: 0,0:14:07.28,0:14:08.53,Default,SIGN,0,0,0,,{\p1\bord0\an8\c&HFCFBFB&\frz359.9\fscx239\fscy22\pos(336,286)}m 0 0 l 230 0 230 215 0 215
+Dialogue: 1,0:14:07.28,0:14:08.53,Default,SIGN,0,0,0,,{\fs30\fnArial\c&H02ECFF&\3c&H334DCC&\pos(330,334)}Özel Görüntüler! {\c&HE7B744&}Aile Restoranı Görgü Kuralları mı?
+Dialogue: 9,0:14:08.91,0:14:13.06,Default,KAZUHARU,0,0,0,,Eğitimin gerçekte ne için olduğunu biliyor musun?
+Dialogue: 9,0:14:13.06,0:14:15.01,Default,KOHARU,0,0,0,,İyi bir üniversiteye girmek için mi?
+Dialogue: 9,0:14:15.01,0:14:16.41,Default,KAZUHARU,0,0,0,,Yanlış.
+Dialogue: 9,0:14:16.68,0:14:19.37,Default,KAZUHARU,0,0,0,,Bunun gibi biri olmayasın diye.
+Dialogue: 0,0:14:18.04,0:14:20.00,Default,SIGN,0,0,0,,{\fad(776,1)\fs12\pos(495,81)\c&HE1E5E7&\bord1\3c&H0F1115&\b1}Viral olan gönderi tartışma yarattı\N\N Büyük Restoran Zincirleri Darbe Aldı
+Dialogue: 0,0:14:18.04,0:14:20.00,Default,SIGN,0,0,0,,{\fad(776,1)\p1\bord0\an8\c&H38B972&\frz359.9\pos(494.5,65)\fscx62\fscy1}m 0 0 l 230 0 230 215 0 215
+Dialogue: 0,0:14:17.33,0:14:20.00,Default,SIGN,0,0,0,,{\pos(328,222)\fad(1361,1)\fs12\fs24\fnArial\c&H66656D&\3c&HE3E6ED&}"Yarı Zamanlı Çalışan Eşek Şakaları" \N{\c&HECEBEF&\3c&H636263&}Dalgasının {\c&H00FF8E&\3c&H2C7B53&}Arkasındaki Gerçek
+Dialogue: 9,0:14:19.11,0:14:21.19,Italics Top,MALE NEWSCASTER,0,0,0,,Restorana şikayet yağdı.
+Dialogue: 9,0:14:21.19,0:14:23.48,Default,KAZUHARU,0,0,0,,İnsanlar nihayetinde birer hayvandır.
+Dialogue: 9,0:14:23.48,0:14:25.18,Default,KAZUHARU,0,0,0,,Arzularımıza çok kolay yenik düşeriz.
+Dialogue: 9,0:14:25.18,0:14:27.32,Default,KAZUHARU,0,0,0,,İşte bu yüzden eğitim şarttır.
+Dialogue: 9,0:14:27.32,0:14:30.17,Default,KAZUHARU,0,0,0,,İhmal edersen, olacağı budur.
+Dialogue: 9,0:14:30.17,0:14:32.25,Default,KAZUHARU,0,0,0,,Bu çocuk fotoğraf paylaşma sevdasına düşüp
+Dialogue: 9,0:14:32.25,0:14:34.80,Default,KAZUHARU,0,0,0,,Etrafındaki herkesi zor duruma soktu.
+Dialogue: 9,0:14:34.80,0:14:40.40,Default,KAZUHARU,0,0,0,,Şimdi kendisi de ailesi de hayatlarının sonuna kadar \Nbununla yargılanacaklar.
+Dialogue: 9,0:14:37.84,0:14:41.55,Italics Top,MALE NEWSCASTER,0,0,0,,...işletmeler bu yüzden kapandı...
+Dialogue: 9,0:14:42.24,0:14:43.41,Default,KAZUHARU,0,0,0,,Koharu.
+Dialogue: 9,0:14:43.41,0:14:46.90,Default,KAZUHARU,0,0,0,,Sen hâlâ davranışlarının sorumluluğunu \Nalamayan bir çocuksun.
+Dialogue: 9,0:14:47.20,0:14:52.21,Default,KAZUHARU,0,0,0,,Kendine ya da başkalarına zarar verebilecek \Nbencilce şeyler yapma yeter.
+Dialogue: 9,0:14:54.50,0:14:56.78,Default,SHIZUKU,0,0,0,,Ee, Sota-kun!
+Dialogue: 9,0:14:56.78,0:14:59.94,Default,SHIZUKU,0,0,0,,Sevgilinin bir fotoğrafı yok mu sende?
+Dialogue: 9,0:14:59.94,0:15:01.73,Default,SHIZUKU,0,0,0,,Yüzünü göster bana! Hadi ama!
+Dialogue: 9,0:15:01.73,0:15:03.57,Default,SOTA,0,0,0,,Neden olsun ki?
+Dialogue: 9,0:15:03.57,0:15:06.05,Default,SOTA,0,0,0,,S-Sanki çıkıyormuşuz \Ngibi konuşuyorsun.
+Dialogue: 9,0:15:06.05,0:15:08.00,Default,MAYO,0,0,0,,Hey, bende var birkaç tane.
+Dialogue: 9,0:15:08.68,0:15:11.80,Default,MAYO,0,0,0,,Kombinle gurur duydum, \No yüzden fotoğrafını çekmeyi rica etmiştim.
+Dialogue: 9,0:15:13.10,0:15:15.32,Default,SHIZUKU,0,0,0,,Çok tatlıymış!
+Dialogue: 9,0:15:15.32,0:15:17.80,Default,SHIZUKU,0,0,0,,Böyle havalı, zarif bir havası var, değil mi?
+Dialogue: 9,0:15:18.01,0:15:19.81,Italics,SOTA,0,0,0,,Gerçekten çok tatlı.
+Dialogue: 9,0:15:19.81,0:15:22.68,Default,SHIZUKU,0,0,0,,Ee, öptün mü bakayım onu? Mucuk!
+Dialogue: 9,0:15:22.68,0:15:24.75,Default,SOTA,0,0,0,,H-Hayır, öpmedim.
+Dialogue: 9,0:15:24.75,0:15:26.56,Default,SHIZUKU,0,0,0,,Masum bir buse bile mi yok?
+Dialogue: 9,0:15:27.36,0:15:28.57,Default,SOTA,0,0,0,,Tabii ki hayır!
+Dialogue: 9,0:15:29.36,0:15:33.82,Default,MAYO,0,0,0,,Lafa bak. Sanki senin \Nçok tecrüben varmış gibi, Shizuku.
+Dialogue: 9,0:15:33.82,0:15:38.83,Default,SHIZUKU,0,0,0,,Aşk hayatı yolunda gitsin diye \NSadece biraz gaz vermeye çalışıyorum!
+Dialogue: 9,0:15:38.83,0:15:41.40,Default,SHIZUKU,0,0,0,,Devam et! Asla durma!
+Dialogue: 9,0:15:41.40,0:15:44.29,Default,SOTA,0,0,0,,Herkesin kendi hızı vardır, değil mi?
+Dialogue: 9,0:15:44.29,0:15:47.46,Default,SHIZUKU,0,0,0,,Hey, hâlâ böyle idealist \Nşeyler saçmalıyorsan.
+Dialogue: 9,0:15:47.46,0:15:50.05,Default,SHIZUKU,0,0,0,,Hiç de ciddi değilsin demektir!
+Dialogue: 9,0:15:50.93,0:15:54.70,Default,SOTA,0,0,0,,Birini gerçekten önemsiyorsan, \NTembihli ve dikkatli olmaz mısın.
+Dialogue: 9,0:15:54.70,0:15:58.47,Default,SOTA,0,0,0,,Onu rahatsız etmek ya da \Nüzmek istemediğin için?
+Dialogue: 9,0:15:58.68,0:16:02.39,Default,SHIZUKU,0,0,0,,Kim istedi ki senden onları üzmemeni?
+Dialogue: 9,0:16:02.84,0:16:04.40,Default,SOTA,0,0,0,,Kim mi?
+Dialogue: 9,0:16:04.40,0:16:06.32,Default,SHIZUKU,0,0,0,,Onlara ayak bağı olsan kimin umurunda?
+Dialogue: 9,0:16:06.32,0:16:08.73,Default,SHIZUKU,0,0,0,,İnsanlara yakınlaşmak demek; dert olmak.
+Dialogue: 9,0:16:08.73,0:16:11.48,Default,SHIZUKU,0,0,0,,Hayatlarına müdahale etmek \Nve incinmek demektir!
+Dialogue: 9,0:16:11.48,0:16:14.81,Default,SHIZUKU,0,0,0,,Ve böyle bir bağ kurmak \Nisteyen tonla insan var.
+Dialogue: 9,0:16:15.26,0:16:19.39,Default,SHIZUKU,0,0,0,,Belki de asıl incinmekten \Nkorkan sensindir?
+Dialogue: 9,0:16:23.15,0:16:25.22,Default,KOHARU,0,0,0,,Çok yoruldum.
+Dialogue: 9,0:16:25.22,0:16:28.25,Default,KOHARU,0,0,0,,Eve geç geldiğimi biliyorum ama.
+Dialogue: 9,0:16:28.25,0:16:31.30,Default,KOHARU,0,0,0,,Daha anlayışlı olabilirdi.
+Dialogue: 9,0:16:32.16,0:16:35.16,Default,KOHARU,0,0,0,,Oshio-kun beni teselli etsin istiyorum.
+Dialogue: 0,0:16:37.05,0:16:39.06,Default,SIGN,0,0,0,,{\an8\fs20\c&H86828C&\3c&HF8F5FD&}Okul çıkışı benimle bubble tea \Niçmeye gelmek ister misin?
+Dialogue: 9,0:16:39.06,0:16:42.57,Default,KOHARU,0,0,0,,"İyi akşamlar"... yok.
+Dialogue: 9,0:16:42.57,0:16:45.28,Default,KOHARU,0,0,0,,"Ne gündü ama"... yok.
+Dialogue: 9,0:16:45.28,0:16:48.15,Default,KOHARU,0,0,0,,"İki gün sonraki buluşmamız için sabırsızlanıyorum." desem nasıl olur?
+Dialogue: 9,0:16:48.15,0:16:49.24,Default,KOHARU,0,0,0,,Buluşma!
+Dialogue: 9,0:16:50.06,0:16:50.56,Default,KOHARU,0,0,0,,Ha?
+Dialogue: 9,0:16:51.44,0:16:53.07,Default,KOHARU,0,0,0,,Oshio-kun'dan mı...?
+Dialogue: 0,0:16:52.19,0:16:53.07,Default,SIGN,0,0,0,,{\an7\fs20\c&HA7A7AC&\3c&HFFFEFF&\pos(214,270)\fad(363,1)}Sato-san
+Dialogue: 0,0:16:56.70,0:16:58.20,Default,SIGN,0,0,0,,{\b1\fs32\pos(322,144)}Birkaç Dakika Önce...
+Dialogue: 9,0:16:58.50,0:17:00.33,Flashback,SHIZUKU,0,0,0,,Sota-kun!
+Dialogue: 9,0:17:00.33,0:17:02.04,Flashback Top,SHIZUKU,0,0,0,,Hey, Sota-kun!
+Dialogue: 9,0:17:00.44,0:17:02.04,Flashback,MAYO,0,0,0,,Shizuku.
+Dialogue: 9,0:17:02.44,0:17:04.06,Flashback,MAYO,0,0,0,,Çok üsteleyip baskı yapıyorsun.
+Dialogue: 9,0:17:04.06,0:17:06.03,Flashback,SHIZUKU,0,0,0,,Ama çok eğleniyorum!
+Dialogue: 9,0:17:06.76,0:17:10.84,Flashback,MAYO,0,0,0,,Şu sarhoşun dediklerine bakma sen.
+Dialogue: 9,0:17:10.84,0:17:13.77,Flashback,SOTA,0,0,0,,Ben sadece onu asla üzmek istemiyorum.
+Dialogue: 9,0:17:13.77,0:17:15.10,Flashback,MAYO,0,0,0,,Anlıyorum.
+Dialogue: 9,0:17:16.36,0:17:18.53,Flashback,SOTA,0,0,0,,Onu rahatsız etmek de istemiyorum.
+Dialogue: 9,0:17:22.76,0:17:25.18,Flashback,SOTA,0,0,0,,Hey! O benim telefonum! \NNeden aldın onu?
+Dialogue: 9,0:17:29.44,0:17:31.94,Italics,KOHARU,0,0,0,,Bir dakika, ne?!
+Dialogue: 9,0:17:31.94,0:17:33.36,Italics,KOHARU,0,0,0,,Aman Tanrım, aman Tanrım!
+Dialogue: 9,0:17:33.36,0:17:34.74,Italics,KOHARU,0,0,0,,Bu ne anlama geliyor şimdi?
+Dialogue: 0,0:17:35.45,0:17:37.45,Default,SIGN,0,0,0,,{\an8\fs30\c&H94919A&\3c&HFFFEFF&}Sato-san\NSenden hoşlanıyorum.
+Dialogue: 9,0:17:37.44,0:17:39.76,Default,KOHARU,0,0,0,,B-Bu bir aşk ilanı \Nolabilir mi yoksa?
+Dialogue: 9,0:17:44.21,0:17:45.84,Italics,KOHARU,0,0,0,,Sakin ol, sakin ol Koharu Sato.
+Dialogue: 9,0:17:45.84,0:17:48.58,Italics,KOHARU,0,0,0,,"Aşığım" demiyor, "hoşlanıyorum" diyor.
+Dialogue: 9,0:17:49.03,0:17:54.17,Default,ROCK STAR,0,0,0,,Sizi seviyorum dostlar!
+Dialogue: 9,0:17:54.17,0:17:55.17,Default,KOHARU,0,0,0,,Evet, öyle bir şeydir kesin.
+Dialogue: 9,0:17:55.17,0:17:57.01,Default,KOHARU,0,0,0,,Ya da yazım hatası filan olabilir mi?
+Dialogue: 9,0:17:57.01,0:17:59.97,Default,KOHARU,0,0,0,,Otobüs, minibüs, trambüs...
+Dialogue: 0,0:17:58.09,0:17:59.97,Default,SIGN,0,0,0,,{\an8\fs30\pos(323,5)\bord4\shad3\4c&H757E83&\c&H2D2736&\3c&HFFFCFF&\b1\fad(195,1)}Otobüs Minibüs Trambüs
+Dialogue: 9,0:17:59.97,0:18:02.24,Italics,KOHARU,0,0,0,,Olabilir! Ya da yanlışlıkla atılmıştır!
+Dialogue: 9,0:18:02.24,0:18:04.54,Italics,KOHARU,0,0,0,,Başka bir Sato-san'a \Nmi gönderecekti acaba?
+Dialogue: 9,0:18:05.78,0:18:07.98,Italics,KOHARU,0,0,0,,Bu çok üzücü olurdu!
+Dialogue: 9,0:18:08.92,0:18:13.74,Default,KOHARU,0,0,0,,Ama ya bu gerçek \NBir aşk ilanıysa?
+Dialogue: 9,0:18:14.65,0:18:16.73,Default,KOHARU,0,0,0,,Çok mutlu olurdum!
+Dialogue: 9,0:18:17.35,0:18:20.24,Default,KOHARU,0,0,0,,Duygularımız karşılıklı mı yani? \NÇıkmaya mı başlayacağız?
+Dialogue: 0,0:18:21.87,0:18:24.37,Default,SIGN,0,0,0,,{\an7\fs30\c&H86828C&\3c&HFFFEFF&\pos(275,74)\fad(1,726)}Sato-san
+Dialogue: 0,0:18:21.87,0:18:24.37,Default,SIGN,0,0,0,,{\an7\fs30\c&H86828C&\3c&HFFFEFF&\pos(275,176)\fad(1,726)}Senden hoşlanıyorum.
+Dialogue: 9,0:18:20.82,0:18:23.51,Default,KOHARU,0,0,0,,Ben ve Oshio-kun.
+Dialogue: 0,0:18:23.62,0:18:25.37,Default,SIGN,0,0,0,,{\an7\fs30\c&H5E8084&\3c&H93FEDE&\frz2.376\pos(323,46)\fad(774,1)}Sato-san
+Dialogue: 0,0:18:23.62,0:18:25.37,Default,SIGN,0,0,0,,{\an7\fs30\c&H5E8084&\3c&H93FEDE&\fad(774,1)\frz2.932\pos(122,194)}Senden hoşlanıyorum.
+Dialogue: 9,0:18:27.12,0:18:29.07,Default,MAYO,0,0,0,,Shizuku, ne yaptın sen?
+Dialogue: 9,0:18:30.52,0:18:34.44,Default,SHIZUKU,0,0,0,,Sato-san'a "Senden hoşlanıyorum" mesajı attım, hepsi bu—
+Dialogue: 9,0:18:35.71,0:18:38.12,Default,MAYO,0,0,0,,Çok ileri gittin!
+Dialogue: 9,0:18:39.84,0:18:40.85,Default,SOTA,0,0,0,,Eyvah, bu çok kötü oldu!
+Dialogue: 9,0:18:44.32,0:18:45.09,Default,KOHARU,0,0,0,,Cevap yazmam lazım!
+Dialogue: 9,0:18:45.28,0:18:49.18,Italics,KOHARU,0,0,0,,Ama nasıl? "Ben de senden hoşlanıyorum Oshio-kun" mu desem?
+Dialogue: 9,0:18:49.18,0:18:52.60,Italics,KOHARU,0,0,0,,Ama ya o anlamda söylemediyse?
+Dialogue: 9,0:18:56.36,0:18:57.10,Italics,SOTA,0,0,0,,Sato-san!
+Dialogue: 9,0:18:57.10,0:18:59.17,Default,KOHARU,0,0,0,,O-Oshio-kun!
+Dialogue: 9,0:19:02.72,0:19:04.12,Italics,KOHARU,0,0,0,,Oshio-kun?
+Dialogue: 9,0:19:05.64,0:19:06.94,Italics,SOTA,0,0,0,,Benden nefret etmesini istemiyorum.
+Dialogue: 9,0:19:06.94,0:19:08.64,Italics,SOTA,0,0,0,,Özellikle de Sato-san'ın.
+Dialogue: 9,0:19:09.93,0:19:13.85,Default,SOTA,0,0,0,,Böyle damdan düşer gibi aradığım için kusura bakma. Meşgul müydün?
+Dialogue: 9,0:19:14.36,0:19:17.34,Default,KOHARU,0,0,0,,Ha? Yok, sorun değil.
+Dialogue: 9,0:19:17.34,0:19:19.19,Default,KOHARU,0,0,0,,Tamamen müsaitim!
+Dialogue: 9,0:19:19.19,0:19:23.30,Italics,SOTA,0,0,0,,Az önce karşılaşmamız ne büyük tesadüftü ama.
+Dialogue: 9,0:19:23.30,0:19:26.29,Default,KOHARU,0,0,0,,E-Evet! Ben de çok şaşırdım.
+Dialogue: 9,0:19:26.29,0:19:29.05,Default,KOHARU,0,0,0,,Inanamıyorum böyle bir şey olduğuna.
+Dialogue: 9,0:19:31.36,0:19:34.34,Default,SOTA,0,0,0,,Cumartesi günü için çok heyecanlıyım.
+Dialogue: 9,0:19:34.34,0:19:38.76,Italics,KOHARU,0,0,0,,Evet! Uzun zamandır buz tatlısı yememiştim.
+Dialogue: 9,0:19:38.76,0:19:41.53,Italics,SOTA,0,0,0,,Gerçekten çok hoşlandığım kişiyle, \NSato-san ile konuşuyorum.
+Dialogue: 9,0:19:41.53,0:19:44.17,Italics,SOTA,0,0,0,,Ama neden bu kadar acı veriyor?
+Dialogue: 9,0:19:44.17,0:19:47.37,Italics,KOHARU,0,0,0,,B-Ben sadece gerçekten çok heyecanlıyım.
+Dialogue: 9,0:19:49.45,0:19:51.18,Italics,KOHARU,0,0,0,,Oshio-kun.
+Dialogue: 9,0:19:51.58,0:19:52.69,Default,SOTA,0,0,0,,Sato-san?
+Dialogue: 9,0:19:52.69,0:19:54.13,Italics,KOHARU,0,0,0,,Üzgünüm.
+Dialogue: 9,0:19:54.48,0:19:59.83,Default,KOHARU,0,0,0,,Az önceki mesaj.\NBir açıklaması vardı, değil mi?
+Dialogue: 9,0:19:59.83,0:20:03.69,Default,KOHARU,0,0,0,,Beni üzeceğinden korktuğun için
+Dialogue: 9,0:20:03.69,0:20:06.68,Default,KOHARU,0,0,0,,bana gerçeği söylemeye \Ndilin varmıyor, değil mi?
+Dialogue: 9,0:20:06.68,0:20:08.76,Default,KOHARU,0,0,0,,Beni dert etme lütfen!
+Dialogue: 9,0:20:08.76,0:20:11.14,Default,KOHARU,0,0,0,,Hiç ama hiç sorun değil.
+Dialogue: 9,0:20:12.49,0:20:16.31,Italics,KOHARU,0,0,0,,Ama sanırım buz tatlısı yemeye\N gelemeyeceğim.
+Dialogue: 9,0:20:16.31,0:20:17.56,Italics,SOTA,0,0,0,,Hayır.
+Dialogue: 9,0:20:17.56,0:20:19.21,Italics,KOHARU,0,0,0,,Gerçekten çok özür dilerim.
+Dialogue: 9,0:20:19.21,0:20:21.93,Italics,SOTA,0,0,0,,Bu gidişle her şey \NGerçekten bitecek.
+Dialogue: 9,0:20:21.93,0:20:24.07,Italics,KOHARU,0,0,0,,Üzgünüm, kapatmam lazım.
+Dialogue: 9,0:20:24.07,0:20:25.65,Italics,SOTA,0,0,0,,Bitmesini istemiyorum!
+Dialogue: 9,0:20:26.11,0:20:32.35,Flashback,SEIZAEMON,0,0,0,,Görüyorsun ya Sota, kas dediğin \NAcı ve hasarla gelişir.
+Dialogue: 9,0:20:32.88,0:20:33.84,Italics,SOTA,0,0,0,,Doğru ya!
+Dialogue: 9,0:20:33.84,0:20:35.65,Italics,SOTA,0,0,0,,İncinmekten korkup durursam.
+Dialogue: 9,0:20:35.65,0:20:38.68,Italics,SOTA,0,0,0,,Sato-san'ın yanında durmamın \Nimkânı yok.
+Dialogue: 9,0:20:38.68,0:20:40.00,Italics,KOHARU,0,0,0,,İyi geceler.
+Dialogue: 9,0:20:40.00,0:20:41.40,Default,SOTA,0,0,0,,Sato-san!
+Dialogue: 9,0:20:41.40,0:20:42.39,Italics,KOHARU,0,0,0,,Efendim?
+Dialogue: 9,0:20:42.95,0:20:45.52,Italics,SOTA,0,0,0,,Senden bir şey için \Nözür dilemek istiyorum.
+Dialogue: 9,0:20:45.52,0:20:47.35,Default,KOHARU,0,0,0,,Önemli değil, Oshio-kun.
+Dialogue: 9,0:20:47.35,0:20:49.39,Default,KOHARU,0,0,0,,Dinlemek istemiyorum.
+Dialogue: 9,0:20:49.39,0:20:52.94,Default,SOTA,0,0,0,,MINE'den sana çıkma teklifi mesajı attığım için özür dilerim.
+Dialogue: 9,0:20:52.94,0:20:54.76,Default,SOTA,0,0,0,,Ezikçeydi. Baştan yapmak istiyorum.
+Dialogue: 9,0:20:54.76,0:20:55.76,Default,KOHARU,0,0,0,,Ne?!
+Dialogue: 9,0:20:56.07,0:20:59.32,Default,SOTA,0,0,0,,Senden hoşlanıyorum, Sato-san.
+Dialogue: 9,0:20:59.77,0:21:01.79,Default,SOTA,0,0,0,,Bu bir şaka ya da hata değil.
+Dialogue: 9,0:21:01.79,0:21:03.79,Default,SOTA,0,0,0,,Senden hoşlanıyorum, Sato-san.
+Dialogue: 9,0:21:03.79,0:21:05.45,Italics,SOTA,0,0,0,,Senden bir arkadaştan daha fazlası olarak hoşlanıyorum.
+Dialogue: 9,0:21:06.52,0:21:09.41,Default,SOTA,0,0,0,,Tanıştığımız günden beri senden hoşlanıyorum.
+Dialogue: 9,0:21:10.09,0:21:13.96,Default,SOTA,0,0,0,,Gülümsediğindeki yüzün, \Nkızgın olduğundaki, ağladığındaki...
+Dialogue: 9,0:21:13.96,0:21:15.83,Default,SOTA,0,0,0,,Kendini kaptırdığında takındığın \Nöylesine özgüvenli halin bile...
+Dialogue: 9,0:21:16.67,0:21:17.94,Default,SOTA,0,0,0,,Hepsini çok seviyorum.
+Dialogue: 9,0:21:19.28,0:21:22.17,Default,SOTA,0,0,0,,Senden hoşlanıyorum, Sato Koharu.
+Dialogue: 9,0:21:26.60,0:21:27.46,Default,SOTA,0,0,0,,O da neydi öyle?
+Dialogue: 0,0:21:28.01,0:21:30.01,Default,SIGN,0,0,0,,{\fs30\c&HFEFFF0&\3c&H988E00&\pos(320,36)}Arama Sonlandı
+Dialogue: 9,0:21:33.08,0:21:34.93,Default,SHIZUKU,0,0,0,,N-Nasıl gitti, Sota-kun?
+Dialogue: 9,0:21:34.93,0:21:37.02,Default,MAYO,0,0,0,,Ne dedi?
+Dialogue: 9,0:21:37.46,0:21:38.53,Default,SHIZUKU,0,0,0,,Suratına mı kapattı?
+Dialogue: 9,0:21:38.53,0:21:41.74,Default,MAYO,0,0,0,,Ha? Ne oldu? Oshio-kun?
+Dialogue: 9,0:21:42.52,0:21:45.52,Default,KIYOMI,0,0,0,,Koharu! Banyoda \Nçok kaldın!
+Dialogue: 9,0:21:45.96,0:21:48.28,Default,KIYOMI,0,0,0,,Çıkmazsan haşlanmış \NAhtapota döneceksin—
+Dialogue: 9,0:21:48.56,0:21:50.00,Default,KIYOMI,0,0,0,,Geç bile kalmış!
+Dialogue: 9,0:21:51.22,0:21:54.00,Default,KIYOMI,0,0,0,,Aptal çocuk, Seni şaşkın seni!
+Dialogue: 9,0:21:54.00,0:21:58.45,Default,KOHARU,0,0,0,,Ben de senden hoşlanıyorum, Oshio-kun.
+Dialogue: 9,0:23:35.42,0:23:37.23,Default,KOHARU,0,0,0,,Gelecek bölüm: "Sihir."
+Dialogue: 1,0:23:35.81,0:23:40.06,Default,SIGN,0,0,0,,{\an8\fad(528,1)\fnVerdana\fs17\c&H7E572F&\3c&HFDFEFD&\blur4\pos(273,146)}Gelecek Bölüm
+Dialogue: 0,0:23:35.81,0:23:40.06,Default,SIGN,0,0,0,,{\an8\fad(528,1)\fnVerdana\fs17\c&H7E572F&\3c&HC2B8FB&\blur4\pos(273,146)}Gelecek Bölüm
+Dialogue: 1,0:23:35.81,0:23:40.06,Default,SIGN,0,0,0,,{\an8\fad(528,1)\fnVerdana\fs23\c&H7E572F&\3c&HFEFEFE&\blur4\pos(354,136)}Sihir
+Dialogue: 0,0:23:35.81,0:23:40.06,Default,SIGN,0,0,0,,{\an8\fad(528,1)\fnVerdana\fs23\c&HAB7C4F&\4c&HE0D4DB&\3c&HFEFEFE&\blur4\pos(354,136)}Sihir
+Dialogue: 9,0:23:37.23,0:23:39.45,Default,SOTA,0,0,0,,Benim de cesur olmam lazım!
